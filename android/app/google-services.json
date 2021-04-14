@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "639956028196",
+    "project_id": "councilvote-406e3",
+    "storage_bucket": "councilvote-406e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:639956028196:android:47997aaa5957c5975701b1",
+        "android_client_info": {
+          "package_name": "com.example.councilvote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "639956028196-jq7jnmp1k3891j83kn0ok0d5koj7fgfl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM5vpUGdxupMsyCOoRhFvt84QgMovyU84"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "639956028196-jq7jnmp1k3891j83kn0ok0d5koj7fgfl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
